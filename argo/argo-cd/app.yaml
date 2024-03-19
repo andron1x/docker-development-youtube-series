@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/andron1x/docker-development-youtube-series.git
-    targetRevision: HEAD
+    targetRevision: andron1x-dev
     path: argo/example-app
     directory:
       recurse: true
